@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "tiny-vga")(type "KiCad")(uri "${KIPRJMOD}/tiny-vga.kicad_sym")(options "")(descr ""))
+)
