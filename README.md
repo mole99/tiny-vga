@@ -21,10 +21,10 @@ top row - bottom row
 | 5   | GND    | 11  | GND    |
 | 6   | VCC    | 12  | VCC    |
 
-> R0, G0, B0 are the least significant bits
-> R1, G1, B1 are the most significant bits
-> VS ... vertical sync
-> HS ... horizontal sync
+> R0, G0, B0 are the least significant bits\
+> R1, G1, B1 are the most significant bits\
+> VS ... vertical sync\
+> HS ... horizontal sync\
 > VCC must be 3V3
 
 # Board Images
