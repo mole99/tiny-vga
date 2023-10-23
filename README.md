@@ -10,20 +10,16 @@ For the VGA connector [this one](https://eu.mouser.com/ProductDetail/Amphenol-Co
 
 Pin numbering according to Pmod specification.
 
-| Pin | Signal |
-|-----|--------|
-| 1   | R1     |
-| 2   | G1     |
-| 3   | B1     |
-| 4   | VS     |
-| 5   | GND    |
-| 6   | VCC    |
-| 7   | R0     |
-| 8   | G0     |
-| 9   | B0     |
-| 10  | HS     |
-| 11  | GND    |
-| 12  | VCC    |
+top row - bottom row
+
+| Pin | Signal | Pin | Signal |
+|-----|--------|-----|--------|
+| 1   | R1     | 7   | R0     |
+| 2   | G1     | 8   | G0     |
+| 3   | B1     | 9   | B0     |
+| 4   | VS     | 10  | HS     |
+| 5   | GND    | 11  | GND    |
+| 6   | VCC    | 12  | VCC    |
 
 > R0, G0, B0 are the least significant bits
 > R1, G1, B1 are the most significant bits
