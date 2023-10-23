@@ -1,0 +1,10 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+R1,360R,R_0402_1005Metric,150.1,-80.5,-135.0,top
+R2,360R,R_0402_1005Metric,150.19,-83.6,180.0,top
+R3,360R,R_0402_1005Metric,150.1,-86.4,135.0,top
+R4,47R,R_0402_1005Metric,152.5,-91.7,0.0,top
+R5,47R,R_0402_1005Metric,152.5,-90.0,0.0,top
+RN1,360R,R_Array_Convex_4x0402,152.5,-79.35,270.0,top
+RN2,360R,R_Array_Convex_4x0402,152.5,-83.45,270.0,top
+RN3,360R,R_Array_Convex_4x0402,152.5,-87.5,270.0,top
+U1,74LVC245A,TSSOP-20_4.4x6.5mm_P0.65mm,144.0,-84.075,90.0,top
