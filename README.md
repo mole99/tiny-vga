@@ -25,11 +25,11 @@ Pin numbering according to Pmod specification.
 | 11  | GND    |
 | 12  | VCC    |
 
-R0, G0, B0 are the least significant bit
-R1, G1, B1 are the most significant bit
-VS ... vertical sync
-HS ... horizontal sync
-VCC must be 3V3
+> R0, G0, B0 are the least significant bits
+> R1, G1, B1 are the most significant bits
+> VS ... vertical sync
+> HS ... horizontal sync
+> VCC must be 3V3
 
 # Board Images
 
@@ -41,11 +41,13 @@ The board as it arrived from JLCPCB.
 |--------------|-----------|
 | ![pcb_assembled1.jpg](img/pcb_assembled1.jpg) | ![pcb_assembled2.jpg](img/pcb_assembled2.jpg)      |
 
-After soldering the Pmod and the VGA connector.
+The board after soldering the Pmod connector and the VGA connector.
 
 # Demo
 
 ![demo.gif](img/demo.gif)
+
+The output is 800x600 SVGA and the quality is excellent in real life.
 
 # License
 
