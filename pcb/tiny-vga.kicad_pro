@@ -55,9 +55,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "lib_footprint_mismatch|126890000|85810000|3eeab5b3-fcf1-4e41-95bf-9cbe56e20182|00000000-0000-0000-0000-000000000000"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -493,6 +491,6 @@
   ],
   "text_variables": {
     "NAME": "TinyVGA",
-    "VERSION": "v1.0"
+    "VERSION": "v1.1"
   }
 }
