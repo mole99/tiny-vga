@@ -1,11 +1,11 @@
-%TF.GenerationSoftware,KiCad,Pcbnew,7.0.8*%
-%TF.CreationDate,2023-10-23T19:29:07+02:00*%
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.9*%
+%TF.CreationDate,2023-11-21T15:34:17+01:00*%
 %TF.ProjectId,tiny-vga,74696e79-2d76-4676-912e-6b696361645f,v1.0*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Profile,NP*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 7.0.8) date 2023-10-23 19:29:07*
+G04 Created by KiCad (PCBNEW 7.0.9) date 2023-11-21 15:34:17*
 %MOMM*%
 %LPD*%
 G01*
