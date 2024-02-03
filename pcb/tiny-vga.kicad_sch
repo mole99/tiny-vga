@@ -10,6 +10,7 @@
     (rev "v1.0")
     (company "Copyright (c) Leo Moser")
     (comment 1 "Made by mole99")
+    (comment 2 "License: CC BY-SA 4.0")
   )
 
   (lib_symbols

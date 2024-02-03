@@ -1,5 +1,6 @@
 Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 C1,100n,C_0603_1608Metric,141.1,-89.175,-90.0,top
+J2,VGA,DSUB-15-HD_Female_Horizontal,167.674,-77.5,90.0,top
 R1,470,R_0402_1005Metric,155.09,-66.9,180.0,top
 R2,1.5k,R_0402_1005Metric,155.1,-67.9,180.0,top
 R3,470,R_0402_1005Metric,152.6,-68.9,0.0,top
