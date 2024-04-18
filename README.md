@@ -1,21 +1,12 @@
 # Tiny VGA
 
-[![Upload to - AISLER](https://img.shields.io/badge/Upload_to_-AISLER-ff8000)](https://aisler.net/p/new?url=https://raw.githubusercontent.com/mole99/tiny-vga/main/pcb/tiny-vga.kicad_pcb&ref=Tiny-VGA)
-
 Tiny VGA provides VGA output for up to two bits per color with just one Pmod. The board is designed in KiCad and uses two layers to be easily manufacturable.
-
-The board supports SMT assembly through JLCPCB and AISLER.
 
 For the VGA connector [this one](https://eu.mouser.com/ProductDetail/Amphenol-Commercial-Products/L77HDE15SD1CH4FVGA?qs=ToP8pWlZ0bNtQSp9f8k5Rw%3D%3D) was used.
 
 - JLCPCB
 
 [KiCAD JLCPCB tools](https://github.com/Bouni/kicad-jlcpcb-tools) needs to be installed to create the production files. Or you can use them right away under `pcb/jlcpcb/production_files`.
-
-- AISLER
-
-[AISLER Push for KiCad](https://github.com/AislerHQ/PushForKiCad) 
-can be installed to send the production files directly to AISLER. Or you can click on the badge at the top.
 
 # Pinout
 
