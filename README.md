@@ -1,6 +1,10 @@
-# Tiny VGA
+# Tiny VGA [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+
+![Tiny VGA 3D Render](img/tiny-vga_render.png)
 
 Tiny VGA is a Pmod peripheral designed for [Tiny Tapeout](https://tinytapeout.com/), but can of course also be used with any other Pmod compatible hardware such as certain FPGA boards.
+
+Viwe the schematic online using [KiCanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fmole99%2Ftiny-vga%2Fblob%2Fmain%2Fpcb%2Ftiny-vga.kicad_sch)!
 
 **Why Yet Another Pmod VGA Peripheral?**
 
@@ -12,7 +16,7 @@ The board is designed in [KiCad](https://www.kicad.org/) and uses the [KiCAD JLC
 
 ## How Do I Get One? 
 
-I do not sell Tiny VGAs, but you can order a few Tiny VGAs directly from PCB manufacturers for relatively little money. It gets cheaper if you order, say, ten at a time. You could give away the remaining Tiny VGAs to others who are located near you to help out the community :)
+I do not sell Tiny VGAs, but you can order a few Tiny VGAs directly from PCB manufacturers for relatively little money. the cost per PCB gets cheaper if you order, say, ten at a time. You could give away the remaining Tiny VGAs to others who are located near you to help out the community :)
 
 Search the Tiny Tapeout Discord server for others who could use one.
 
