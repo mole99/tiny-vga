@@ -4,7 +4,7 @@
 
 Tiny VGA is a Pmod peripheral designed for [Tiny Tapeout](https://tinytapeout.com/), but can of course also be used with any other Pmod compatible hardware such as certain FPGA boards.
 
-Viwe the schematic online using [KiCanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fmole99%2Ftiny-vga%2Fblob%2Fmain%2Fpcb%2Ftiny-vga.kicad_sch)!
+View the schematic online using [KiCanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fmole99%2Ftiny-vga%2Fblob%2Fmain%2Fpcb%2Ftiny-vga.kicad_sch)!
 
 **Why Yet Another Pmod VGA Peripheral?**
 
